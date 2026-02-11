@@ -25,4 +25,8 @@ Engage the Requirements Engineer at the start of a new feature or when you have 
 
 > 💡 **Tip:** Start your conversation with Copilot by referencing the requirements engineer instructions to shift its perspective toward analysis and specification rather than jumping straight to code.
 
+## Acknowledgments
+
+This project was inspired by and derives prompts from [AI Coding Starter Kit](https://github.com/AlexPEClub/ai-coding-starter-kit) by [@AlexPEClub](https://github.com/AlexPEClub). Their work provided the foundation for adapting these concepts to GitHub Copilot in Visual Studio.
+
 
